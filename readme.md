@@ -6,7 +6,7 @@ komputer dibutuhkan untuk mempermudah hidup manusia dalam menyimpan dan mengolah
 informasi yang bisa berbentuk suara tulisan ,video, dan lain-lain diiubah kedalam bentuk bilangan biner.
 
 ### kenapa bilangan biner?
-    karena komputer hanya mengenal binary untuk 
+    karena komputer hanya mengenal binary untuk berkomunikasi 
 
 ### bagaimana kita bisa berkomunikasi dengan komputer ?
 memberi instruksi dengan komputer dibutuhkan bahasa pemrogaman salah satunya javascript
