@@ -8,6 +8,8 @@ informasi yang bisa berbentuk suara tulisan ,video, dan lain-lain diiubah kedala
 ### kenapa bilangan biner?
     karena komputer hanya mengenal binary untuk berkomunikasi 
 
+# updated
+
 ### bagaimana kita bisa berkomunikasi dengan komputer ?
 memberi instruksi dengan komputer dibutuhkan bahasa pemrogaman salah satunya javascript
 
